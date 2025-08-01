@@ -1,0 +1,1 @@
+function trackCall(listing){if(window.gtag){gtag('event','call_click',{'event_category':'Calls','event_label':listing})}}
