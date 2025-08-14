@@ -5,7 +5,6 @@ body {
   background: #f9f9f9;
   color: #333;
   text-align: center;
-  background-color: purple;
 }
 
 header {
@@ -49,4 +48,5 @@ a {
 a:hover {
   background: #e73370;
 }
+
 
